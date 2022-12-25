@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.hackerrank.com/bloodtaint">
-    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=green" alt="HackerRank Badge"/>
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </div>
 
