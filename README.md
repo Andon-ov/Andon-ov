@@ -9,4 +9,7 @@
 * ❤️ I love Python
 I wish you a pleasant day!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baido&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :fire: My Stats :
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=baido&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
