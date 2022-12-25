@@ -8,3 +8,6 @@
 * 📫 How to contact me easily just write me an email: andon.zhelyazkov.andonov@gmail.com
 * ❤️ I love Python
 I wish you a pleasant day!
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bigdo=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
