@@ -7,7 +7,7 @@
 * 💬 Ask me anything you want. I would be glad if I could help with anything.
 * 📫 How to contact me easily just write me an email: andon.zhelyazkov.andonov@gmail.com
 * ❤️ I love Python
-I wish you a pleasant day!
+* 👂 I wish you a pleasant day!
 
 
 ### :fire: My Stats :
