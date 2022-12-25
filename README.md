@@ -6,13 +6,11 @@
   <a href="https://www.linkedin.com/in/andon-andonov-bigdo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="andon.zhelyazkov.andonov@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-Gmail-green" alt="Gmail Badge"/>
-  </a>
 </div>
 
 
 ### Hi there 👋
+I am a Junior Python Web Developer from Bulgaria.
 * 👂 My name is Andon Andonov
 * 🔭 I’m currently working on my last project: Python-Web-Framework-Individual-Project
 * 🌱 I am currently learning JavaScript. And I'm almost finishing my education at SoftUni with a specialization in Python Web Developer
