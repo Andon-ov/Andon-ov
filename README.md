@@ -6,7 +6,11 @@
   <a href="https://www.linkedin.com/in/andon-andonov-bigdo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="andon.zhelyazkov.andonov@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-Gmail-green" alt="Gmail Badge"/>
+  </a>
 </div>
+
 
 ### Hi there 👋
 * 👂 My name is Andon Andonov
