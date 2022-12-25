@@ -2,6 +2,12 @@
    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/andon-andonov-bigdo/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 ### Hi there 👋
 * 👂 My name is Andon Andonov
 * 🔭 I’m currently working on my last project: Python-Web-Framework-Individual-Project
