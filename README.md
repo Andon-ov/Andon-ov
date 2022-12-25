@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2">via GIPHY</a></p>
+   <img src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="100"/>
 </div>
+
+<iframe src="" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2">via GIPHY</a></p>
 
 ### Hi there 👋
 * 👂 My name is Andon Andonov
