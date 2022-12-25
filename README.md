@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/andon-andonov-bigdo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://www.hackerrank.com/bloodtaint">
+   <a href="https://www.hackerrank.com/BigDo">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
   </a>
 </div>
