@@ -13,13 +13,12 @@
 
 
 ### Hi there 👋
-I am a Junior Python Web Developer from Bulgaria.
-* 👂 My name is Andon Andonov
+* 👂 My name is Andon Andonov and I'm almost finishing my education at SoftUni with a specialization in Python Web Developer.
 * 🔭 I’m currently working on my last project: Python-Web-Framework-Individual-Project
-* 🌱 I am currently learning JavaScript. And I'm almost finishing my education at SoftUni with a specialization in Python Web Developer
+* 🌱 I am currently studying: JavaScript, CSS and HTML and then I am interested in React! 
 * 💬 Ask me anything you want. I would be glad if I could help with anything.
 * 📫 How to contact me easily just write me an email: <strong>andon.zhelyazkov.andonov@gmail.com<strong/>
-* ❤️ I love Python
+* ❤️ I love Python and Linux :)
 * 👂 I wish you a pleasant day!
 
 
