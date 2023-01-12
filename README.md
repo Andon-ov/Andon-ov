@@ -28,4 +28,12 @@ I am a Junior Python Web Developer from Bulgaria.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BigDo-programming&theme=dark&background=000000)](https://git.io/streak-stats)
 
+Here you can see my all certificates:
+
+- [Programming Basics - September 2021](https://softuni.bg/certificates/details/116579/722a9e3f)
+- [Programming Fundamentals with Python - January 2022](https://softuni.bg/certificates/details/129064/a4a5df30)
+- [Python Advanced - May 2022](https://softuni.bg/certificates/details/135930/eaa7da7c)
+- [Python OOP - June 2022](https://softuni.bg/certificates/details/140917/0e009a58)
+- [Python Web Basics - September 2022](https://softuni.bg/certificates/details/147044/ff1d104c)
+- [Python Web Framework - November 2022](https://softuni.bg/certificates/details/152946/d4a38a41)
 
