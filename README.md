@@ -18,7 +18,7 @@
 * 🌱 I am currently studying: JavaScript, CSS and HTML and then I am interested in React! 
 * 💬 Ask me anything you want. I would be glad if I could help with anything.
 * 📫 How to contact me easily just write me an email: <strong>andon.zhelyazkov.andonov@gmail.com<strong/>
-* ❤️ I love Python and Linux :)
+* ❤️ I love Python, JavaScript and Linux :)
 * 👂 I wish you a pleasant day!
 
 
