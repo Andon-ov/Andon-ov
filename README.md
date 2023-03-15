@@ -35,4 +35,5 @@ Here you can see my all certificates:
 - [Python OOP - June 2022](https://softuni.bg/certificates/details/140917/0e009a58)
 - [Python Web Basics - September 2022](https://softuni.bg/certificates/details/147044/ff1d104c)
 - [Python Web Framework - November 2022](https://softuni.bg/certificates/details/152946/d4a38a41)
+- [HTML & CSS - January 2023](https://softuni.bg/certificates/details/163058/28db8b2e)
 
