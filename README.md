@@ -12,14 +12,23 @@
 </div>
 
 
-### Hi there 👋
-* 👂 My name is Andon Andonov and I'm almost finishing my education at SoftUni with a specialization in Python Web Developer.
-* 🔭 I’m currently working on my last project: Python-Web-Framework-Individual-Project
-* 🌱 I am currently studying: JavaScript, CSS and HTML and then I am interested in React! 
-* 💬 Ask me anything you want. I would be glad if I could help with anything.
-* 📫 How to contact me easily just write me an email: <strong>Andon.ov@yahoo.com<strong/>
-* ❤️ I love Python, JavaScript and Linux :)
-* 👂 I wish you a pleasant day!
+Hi there! 👋
+
+I'm Andon Andonov, a Python Web Developer with a specialization from SoftUni. Currently, 
+I'm in the final stages of my education and working on my last project called Local-News-Hub. 🎓
+
+I have a passion for learning, and my current focus is on expanding my knowledge in JavaScript, CSS, and HTML. 
+I'm also excited about diving into React in the near future! 🌱
+
+In addition to web development, I'm also actively studying DevOps to broaden my skill set. 
+I'm eager to explore the world of infrastructure management, automation, and cloud technologies. 🚀
+
+If you have any questions or need assistance, feel free to reach out to me. 
+You can easily contact me via email at Andon.ov@yahoo.com. I'll be more than happy to help you out! 💬
+
+In addition to programming, I have a deep love for Python, JavaScript, and Linux. ❤️
+
+Wishing you a wonderful day ahead!
 
 
 ### :fire: My Stats :
@@ -37,5 +46,7 @@ Here you can see my all certificates:
 - [Python Web Framework - November 2022](https://softuni.bg/certificates/details/152946/d4a38a41)
 - [HTML & CSS - January 2023](https://softuni.bg/certificates/details/163058/28db8b2e)
 - [JS Front-End - February 2023](https://softuni.bg/certificates/details/116579/722a9e3f)
+- [Containers and Cloud - May 2023](https://softuni.bg/certificates/details/174474/b265410d)
+- [Software Engineering and DevOps (06/2023 - Present)]()
 
 
