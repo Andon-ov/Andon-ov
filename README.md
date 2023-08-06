@@ -12,23 +12,23 @@
 </div>
 
 
-Hi there! 👋
+Hello! 👋
 
-I'm Andon Andonov, a Python Web Developer with a specialization from SoftUni. Currently, 
-I'm in the final stages of my education and working on my last project called Local-News-Hub. 🎓
+I'm Andon Andonov, a Python Web Developer with specialized training from SoftUni. 
+With a diploma 🎓 in hand, I've successfully completed my education and am ready to showcase my achievements.
 
-I have a passion for learning, and my current focus is on expanding my knowledge in JavaScript, CSS, and HTML. 
-I'm also excited about diving into React in the near future! 🌱
+My journey continues as I dedicate myself to becoming a proficient Python Full-Stack Developer. 
+Currently, I'm deeply engrossed in several projects, each aimed at elevating my React expertise. 🌱
 
-In addition to web development, I'm also actively studying DevOps to broaden my skill set. 
-I'm eager to explore the world of infrastructure management, automation, and cloud technologies. 🚀
+Beyond web development, I'm passionately delving into the world of DevOps, aiming to expand my skill set. 
+The realm of infrastructure management, automation, and cloud technologies captivates my curiosity. 🚀
 
-If you have any questions or need assistance, feel free to reach out to me. 
-You can easily contact me via email at Andon.ov@yahoo.com. I'll be more than happy to help you out! 💬
+In the realm of technology, my heart belongs to Python, JavaScript, and Linux. ❤️
 
-In addition to programming, I have a deep love for Python, JavaScript, and Linux. ❤️
+Feel free to reach out to me at Andon.ov@yahoo.com for inquiries or assistance. 
+I'm thrilled to contribute and support! 💬
 
-Wishing you a wonderful day ahead!
+Thank you for your time, and I wish you a truly fantastic day ahead!👋🌟
 
 
 ### :fire: My Stats :
@@ -48,5 +48,6 @@ Here you can see my all certificates:
 - [JS Front-End - February 2023](https://softuni.bg/certificates/details/116579/722a9e3f)
 - [Containers and Cloud - May 2023](https://softuni.bg/certificates/details/174474/b265410d)
 - [Software Engineering and DevOps (06/2023 - Present)]()
+- [Python Web Developer Diploma](https://softuni.bg/certificates/details/178500/14e84108)
 
 
