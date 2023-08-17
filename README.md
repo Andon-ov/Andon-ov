@@ -47,7 +47,7 @@ Here you can see my all certificates:
 - [HTML & CSS - January 2023](https://softuni.bg/certificates/details/163058/28db8b2e)
 - [JS Front-End - February 2023](https://softuni.bg/certificates/details/170741/1533ef14)
 - [Containers and Cloud - May 2023](https://softuni.bg/certificates/details/174474/b265410d)
-- [Software Engineering and DevOps (06/2023 - Present)]()
+- [Software Engineering and DevOps - June 2023](https://softuni.bg/certificates/details/183299/cdc600b4)
 - [Python Web Developer Diploma](https://softuni.bg/certificates/details/178500/14e84108)
 
 
