@@ -12,23 +12,32 @@
 </div>
 
 
-Hello! 👋
+👋 Hello! I'm Andon Andonov, a Python Web Developer with specialized training from SoftUni. With a diploma 🎓 in hand, I've successfully completed my education and am ready to showcase my achievements.
 
-I'm Andon Andonov, a Python Web Developer with specialized training from SoftUni. 
-With a diploma 🎓 in hand, I've successfully completed my education and am ready to showcase my achievements.
+## Professional Summary
 
-My journey continues as I dedicate myself to becoming a proficient Python Full-Stack Developer. 
-Currently, I'm deeply engrossed in several projects, each aimed at elevating my React expertise. 🌱
+Junior Full-Stack Web Developer with a focus on Python, JavaScript, Django, Angular, React, and DevOps. Dedicated to continuous learning and improvement through personal projects and education.
 
-Beyond web development, I'm passionately delving into the world of DevOps, aiming to expand my skill set. 
-The realm of infrastructure management, automation, and cloud technologies captivates my curiosity. 🚀
+## Technical Skills
 
-In the realm of technology, my heart belongs to Python, JavaScript, and Linux. ❤️
+- **Programming Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks:** Django, React, Angular
+- **Databases:** PostgreSQL, Firebase Firestore
+- **Version Control:** Git, GitHub
+- **DevOps:** Linux Shell, Docker, AWS, Azure, CI/CD pipelines, Terraform
+- **Monitoring:** Prometheus, Grafana
 
-Feel free to reach out to me at Andon.ov@yahoo.com for inquiries or assistance. 
-I'm thrilled to contribute and support! 💬
+## Soft Skills
 
-Thank you for your time, and I wish you a truly fantastic day ahead!👋🌟
+Adaptability, Attention to detail, Problem Solving, Collaboration, Results Orientation, Technical Excellence
+
+## Interests
+
+Learning new technologies, Developing software solutions, Linux administration, Cooking
+
+Feel free to reach out to me at Andon.ov@yahoo.com for inquiries or assistance. I'm thrilled to contribute and support! 💬
+
+Thank you for your time, and I wish you a truly fantastic day ahead! 👋🌟
 
 
 ### :fire: My Stats :
@@ -48,6 +57,8 @@ Here you can see my all certificates:
 - [JS Front-End - February 2023](https://softuni.bg/certificates/details/170741/1533ef14)
 - [Containers and Cloud - May 2023](https://softuni.bg/certificates/details/174474/b265410d)
 - [Software Engineering and DevOps - June 2023](https://softuni.bg/certificates/details/183299/cdc600b4)
+- [Angular - February 2024](https://softuni.bg/certificates/details/211833/7fdb9c70)
 - [Python Web Developer Diploma](https://softuni.bg/certificates/details/178500/14e84108)
+  
 
 
