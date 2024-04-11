@@ -2,14 +2,6 @@
    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/andon-ov">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://www.hackerrank.com/BigDo">
-    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
-</div>
 
 
 👋 Hello! I'm Andon Andonov, a Python Web Developer with specialized training from SoftUni. With a diploma 🎓 in hand, I've successfully completed my education and am ready to showcase my achievements.
@@ -33,13 +25,20 @@ Adaptability, Attention to detail, Problem Solving, Collaboration, Results Orien
 
 ## Interests
 
-Learning new technologies, Developing software solutions, Linux administration, Cooking
+Learning new technologies, Developing software solutions, Linux administration
 
 Feel free to reach out to me at Andon.ov@yahoo.com for inquiries or assistance. I'm thrilled to contribute and support! 💬
 
 Thank you for your time, and I wish you a truly fantastic day ahead! 👋🌟
 
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/andon-ov">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://www.hackerrank.com/BigDo">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+</div>
 ### :fire: My Stats :
 
 
