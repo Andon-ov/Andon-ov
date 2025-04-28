@@ -59,6 +59,7 @@ Here you can see my all certificates:
 - [Software Engineering and DevOps - June 2023](https://softuni.bg/certificates/details/183299/cdc600b4)
 - [Angular - February 2024](https://softuni.bg/certificates/details/211833/7fdb9c70)
 - [Python Web Developer Diploma](https://softuni.bg/certificates/details/178500/14e84108)
+- [Python Full-Stack Developer](https://softuni.bg/certificates/details/215969/5ef53031)
 - [Linux System Administration](https://softuni.bg/certificates/details/243478/4519f802)  
 
 
