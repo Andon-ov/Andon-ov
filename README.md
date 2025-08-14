@@ -61,5 +61,5 @@ Here you can see my all certificates:
 - [Python Web Developer Diploma](https://softuni.bg/certificates/details/178500/14e84108)
 - [Python Full-Stack Developer](https://softuni.bg/certificates/details/215969/5ef53031)
 - [Linux System Administration](https://softuni.bg/certificates/details/243478/4519f802)  
-
+- [Windows System Administration](https://softuni.bg/certificates/details/247485/33a91b7b)  
 
