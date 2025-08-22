@@ -44,6 +44,44 @@ _Recipe-sharing platform_
 
 ---
 
+## 💼 Projects
+
+**Chef & Gastro Academy**  
+_E-learning platform built on Moodle_  
+🔧 Frontend development only — UI redesign, plugin styling, mobile optimization  
+🔗 [Live Site](https://academy.chefandgastro.com/)
+
+**United Buildings**  
+_Corporate website for real estate_  
+🎯 Frontend development only — responsive UI, multilingual layout, design integration with backend (CodeIgniter)  
+🔗 [Live Site](https://unitedbuildings.bg/)
+
+**The Natural Way**  
+_Recipe-sharing platform_  
+🏆 Full-stack project — 3rd place in Angular course competition out of 450 participants  
+🔗 [Live Site](https://andon-ov.github.io/)  
+🔗 [GitHub](https://github.com/Andon-ov/andon-ov.github.io)
+
+**Material Scout**  
+_Multi-store construction material search engine_  
+🔍 Full-stack project — Django + BeautifulSoup scraper, search UI, deployed on Render  
+🔗 [Live Site](https://multisite-material-search.onrender.com/)  
+🔗 [GitHub](https://github.com/Andon-ov/MultiSite-Material-Search)
+
+**Chef's Talks Menu System**  
+_Restaurant menu system used during my time as Head Chef_  
+🍽️ Full-stack project — Angular + Firebase Firestore, category-based recipe management  
+🔗 [Live Site](https://chefs-talks.web.app/#/categories)  
+🔗 [GitHub](https://github.com/Andon-ov/Chefs-talk)
+
+**Culinary Recipes Platform**  
+_Legacy restaurant menu system (2 years older than Chef's Talks)_  
+📦 Full-stack project — Django, PostgreSQL, Nginx, Dockerized and deployed on AWS EC2  
+🔗 [Live Site](http://recipes.run.place/)  
+🔗 [GitHub](https://github.com/Andon-ov/Culinary-Recipes)
+
+---
+
 ## 🤝 Soft Skills
 
 - Adaptability  
