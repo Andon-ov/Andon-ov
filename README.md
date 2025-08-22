@@ -32,22 +32,6 @@ Creative and detail-oriented Junior Full-Stack Developer with a strong foundatio
 
 **Chef & Gastro Academy**  
 _E-learning platform built on Moodle_  
-🔧 Frontend development only — UI redesign, plugin styling, mobile optimization
-
-**United Buildings**  
-_Corporate website for real estate_  
-🎯 Frontend development only — responsive UI, multilingual layout, design integration with backend
-
-**The Natural Way**  
-_Recipe-sharing platform_  
-🏆 Full-stack project — 3rd place in Angular course competition out of 450 participants
-
----
-
-## 💼 Projects
-
-**Chef & Gastro Academy**  
-_E-learning platform built on Moodle_  
 🔧 Frontend development only — UI redesign, plugin styling, mobile optimization  
 🔗 [Live Site](https://academy.chefandgastro.com/)
 
